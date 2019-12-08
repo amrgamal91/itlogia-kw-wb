@@ -484,17 +484,11 @@ a.text-primary {
     padding-left: 5rem;
     padding-right: 5rem;
   }
-  .intro-row {
-    flex-direction: row-reverse;
-  }
 }
 @media screen and (min-width: 400px) {
   .navbar {
     max-height: 65px;
     padding-left: 2rem;
     padding-right: 2rem;
-  }
-  .intro-row {
-    flex-direction: row-reverse;
   }
 }
